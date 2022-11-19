@@ -18,7 +18,7 @@
 
 
 ### Welcome to my GitHub Profile  
-I'm a Machine Learning Engineer who tries my best to develop ML models and solve real-world problems with these models. I also work in the field of Computer Vision and Data Science. I'm looking for opportunities to make useful use of my knowledge.
+I'm a Machine Learning Engineer who tries my best to develop Machine Learning and Deep Learning models and solve real-world problems with these models. I also work in the field of Computer Vision and Natural Language Processing. I'm looking for opportunities to contribute to.
 
 If you find any problems related to the above-mentioned areas, feel free to contact me.   
   
@@ -38,7 +38,7 @@ If you find any problems related to the above-mentioned areas, feel free to cont
 - 🌱 I’m currently learning Machine Learning Algorithms and related topics.  
   
 
-- ❓ Ask me about anything related to Machine Learning and Computer Vision  
+- ❓ Ask me about anything related to Deep Learning, Computer Vision and NLP
   
 
 - ⚡ Fun fact: I love to code and help others.  
