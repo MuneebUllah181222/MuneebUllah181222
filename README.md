@@ -20,7 +20,7 @@
 ### Welcome to my GitHub Profile  
 I'm a Machine Learning Engineer who tries my best to develop Machine Learning and Deep Learning models and solve real-world problems with these models. I also work in the field of Computer Vision and Natural Language Processing. I'm looking for opportunities to contribute to.
 
-If you find any problems related to the above-mentioned areas, feel free to contact me.   
+If you find any opportunity related to the above-mentioned areas, feel free to contact me.   
   
 
 <br/>  
@@ -64,7 +64,7 @@ If you find any problems related to the above-mentioned areas, feel free to cont
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-<a href = "https://pytorch.org/" target="_blank"><img style="margin: 10px" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyTorch_logo_black.svg&psig=AOvVaw05AOHsEyA4PVXYhdLYEN6a&ust=1668928101495000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDJ6OfXufsCFQAAAAAdAAAAABAE.svg" height = "24" /> </a>
+<a href = "https://pytorch.org/" target="_blank"><img style="margin: 10px" src = "https://drive.google.com/file/d/1qBym1VEc5DXN5pky_SuIc8VKgcCthqEM/view?usp=share_link" height = "24" /> </a>
 </div>  
 
 <br/>  
