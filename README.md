@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Muneeb Ullah, a Machine Learning Engineer working in Computer Vision, Deep Learning and Natural Language Processing 👨‍💻</div>  
+### <div align="center">I'm Muneeb Ullah, a Machine Learning Engineer working in Computer Vision, Deep Learning 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Computer Vision Project  
+- 🔭 I’m currently working on Computer Vision Projects  
   
 
 - 🌱 I’m currently learning and Exploring Deep learning concepts  
   
 
-- ❓ Ask me about anything related to Deep Learning, Computer Vision and Natural Language Processing   
+- ❓ Ask me about anything related to Deep Learning, Computer Vision
   
 
 - ⚡ Fun fact: I love to watch Cricket 🏏  
