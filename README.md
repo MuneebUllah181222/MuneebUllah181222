@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Muneeb Ullah, a Machine Learning Engineer working in Computer Vision, Deep Learning 👨‍💻</div>  
+### <div align="center">I'm Muneeb Ullah, a Data Analytics and Machine Learning Enthusiast👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Computer Vision Projects  
+- 🔭 I’m currently working on Machine Learning and Data Analytics projecst  
   
 
-- 🌱 I’m currently learning and Exploring Deep learning concepts  
+- 🌱 I’m currently learning and Exploring Machine Leraning and Data Analysis concepts  
   
 
-- ❓ Ask me about anything related to Deep Learning, Computer Vision
+- ❓ Ask me about anything related to Data Analytics, AI, and Machine Learning
   
 
-- ⚡ Fun fact: I love to watch Cricket 🏏  
+- ⚡ Fun fact: I love to play and watch Cricket 🏏  
   
 
 <br/>  
@@ -24,17 +24,18 @@
 ## My Skill Set  
 
 <div align="center">  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python" height="50" /></a>  
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="Pandas" height="50" /></a>  
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_3-4JIsx_ivTrRU-mA0jFcjLVsLzdU99TQ&s" alt="Matplotlib" height="50" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" height="50" /></a> 
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="SK-Learn" height="50" /></a> 
 </div>
 
 </td></tr></table>  
